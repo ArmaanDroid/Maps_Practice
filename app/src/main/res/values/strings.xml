@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Favourite Places</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="api_key_places">AIzaSyDS2gAEGzyNTDrGjErOzEl4YA5_mYBKjVU</string>
+    <string name="map_key" translatable="false">AIzaSyDS2gAEGzyNTDrGjErOzEl4YA5_mYBKjVU</string>
+</resources>
